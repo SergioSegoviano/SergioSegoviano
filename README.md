@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**SergioSegoviano/SergioSegoviano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sergio Segoviano
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudiante de Ciencia Política  
+📍 Intereses: Procesos electorales, participación ciudadana y fortalecimiento democrático  
+---
+# Sobre mí
+Soy estudiante de Ciencia Política con un enfoque en el análisis de los procesos electorales y la democracia contemporánea.
+Me interesa comprender cómo se configuran las instituciones, cómo interactúan con la ciudadanía y cuáles son los desafíos actuales de los sistemas políticos.  
+---
+# Áreas de interés académico
+- Procesos y sistemas electorales  
+- Teoría y práctica democrática  
+- Gobernanza y representación política  
+- Participación ciudadana  
